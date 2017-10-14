@@ -1,4 +1,7 @@
 # Hunger Managment
+## Mindset
+- Concentrate on why you want to eat
+- Focus on what the right choice would be and how happy it will make you
 ## Easy to Prepare
 - Raw Vegetables cut into pieces
     - Bell Peppers
