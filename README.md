@@ -13,3 +13,4 @@
     - Banana
 - Plain Oats can be combined with Fruits
 - Water and unsweetened tea
+- Beans with Tomato Sauce
